@@ -1,2 +1,2 @@
-# foodarts
-food and arts.
+food arts
+====
